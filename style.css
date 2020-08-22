@@ -1,0 +1,21 @@
+.hello{
+    color: dodgerblue
+ 
+}
+.intro{
+    color:darksalmon
+    
+}
+.camelchamelon{
+color:aquamarine;
+background-color: rebeccapurple;
+    display:flex;
+  
+    flex-direction:row;
+    justify-content: left;
+  
+  }
+  .facts{
+      color:darkturquoise
+
+  }
